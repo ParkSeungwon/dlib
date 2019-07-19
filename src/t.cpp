@@ -45,6 +45,7 @@
 */
 
 
+#undef DLIB_NO_GUI_SUPPORT
 #include <dlib/bridge.h>
 #include <dlib/type_safe_union.h>
 #include <iostream>

@@ -12,10 +12,10 @@
 
 
 
-#undef DLIB_NO_GUI_SUPPORT
-#include <dlib/gui_widgets.h>
 #include <sstream>
 #include <string>
+#include <dlib/gui_widgets.h>
+#undef DLIB_NO_GUI_SUPPORT
 
 using namespace std;
 using namespace dlib;
